@@ -53,3 +53,7 @@ Tudo stores runtime files in:
 
 `config.json` controls page size, path display, command help display, prompt
 text, input padding, and colors.
+
+## License
+
+MIT
