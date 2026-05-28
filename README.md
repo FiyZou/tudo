@@ -6,6 +6,8 @@ Tudo is a small foreground todo TUI for keeping notes while you work in Codex
 CLI or CC CLI. It stays open until `/exit` is submitted and stores data locally
 in SQLite.
 
+![Tudo screenshot](./screenshots.jpeg)
+
 ## Install
 
 ```sh
